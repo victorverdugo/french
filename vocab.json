@@ -1,0 +1,22 @@
+{     
+  "verb" :  [
+         {"fr":"un","es":"uno"},
+        {"fr":"deux","es":"dos"},
+        {"fr":"trois","es":"tres"}
+        ],
+  "actQuo" : [
+        {"fr":"se réveiller", "es": "despertar-se"},
+        {"fr":"se lever","es":"levar-se"},
+        {"fr":"se laver","es":"lavar-se"},
+        {"fr":"se coiffer","es":"peinar-se"},
+        {"fr":"","es":""},
+        {"fr":"","es":""},
+        {"fr":"","es":""},
+        {"fr":"","es":""},
+        {"fr":"","es":""},
+        {"fr":"","es":""},
+        {"fr":"","es":""}
+  ]
+
+        
+}
