@@ -1,0 +1,22 @@
+{     
+  "ver" :  [
+         {"un":"uno"},
+        {"deux":"dos"},
+        {"trois":"tres"},
+        ],
+  "actQuo" : [
+        {"se réveiller": "despertar-se"},
+        {"se lever":"levar-se"},
+        {"se laver":"lavar-se"},
+        {"se coiffer":"peinar-se"},
+        {"":""},
+        {"":""},
+        {"":""},
+        {"":""},
+        {"":""},
+        {"":""},
+        {"":""},
+  ]
+
+        
+}
