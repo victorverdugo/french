@@ -1,5 +1,5 @@
 { 
-  "categories" :  [verbs,actQuo,adjPers],
+  "categories" :  ['verbs','actQuo','adjPers'],
   "verb" :  [
          {"fr":"un","es":"uno"},
         {"fr":"deux","es":"dos"},
