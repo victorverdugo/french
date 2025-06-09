@@ -1,10 +1,41 @@
 { 
   "categories" : ["verbs", "act-quo", "personnalite","prep-de-lieu", "nourriture", "famille"],
-  "verbs" :  [
-         {"fr":"un","es":"uno","note":"Verbs"},
-        {"fr":"deux","es":"dos","note":"Verbs"},
-        {"fr":"trois","es":"tres","note":"Verbs"}
-        ],
+  "verbs" : [
+          {"fr":"Je Peux","es":"Puedo","note":"Pouvoir"},
+          {"fr":"Tu Peux","es":"Puedes","note":"Pouvoir"},
+          {"fr":"Il Peut","es":"Puede","note":"Pouvoir"},
+          {"fr":"Nous Pouvons","es":"Podemos","note":"Pouvoir"},
+          {"fr":"Vous Pouvez","es":"Podéis","note":"Pouvoir"},
+          {"fr":"Ils Peuvent","es":"Pueden","note":"Pouvoir"},
+        
+          {"fr":"Je Veux","es":"Quiero","note":"Vouloir"},
+          {"fr":"Tu Veux","es":"Quieres","note":"Vouloir"},
+          {"fr":"Il veut","es":"Quiere","note":"Vouloir"},
+          {"fr":"Nous Voulons","es":"Queremos","note":"Vouloir"},
+          {"fr":"Vous Voulez","es":"Queréis","note":"Vouloir"},
+          {"fr":"Ils Veulent","es":"Quieren","note":"Vouloir"},
+        
+          {"fr":"Je dois","es":"Debo","note":"Devoir"},
+          {"fr":"Tu dois","es":"Debes","note":"Devoir"},
+          {"fr":"Il doit","es":"Debe","note":"Devoir"},
+          {"fr":"Nous devons","es":"Debemos","note":"Devoir"},
+          {"fr":"Vous devez","es":"Debéis","note":"Devoir"},
+          {"fr":"Ils doivent","es":"Deben","note":"Devoir"},
+        
+          {"fr":"Je sais","es":"Sé","note":"Savoir"},
+          {"fr":"Tu sais","es":"Sabes","note":"Savoir"},
+          {"fr":"Il sait","es":"Sabe","note":"Savoir"},
+          {"fr":"Nous savons","es":"Sabemos","note":"Savoir"},
+          {"fr":"Vous savez","es":"Sabéis","note":"Savoir"},
+          {"fr":"Ils savent","es":"Saben","note":"Savoir"},
+        
+          {"fr":"Je connais","es":"Conozco","note":"Connaître"},
+          {"fr":"Tu connais","es":"Conoces","note":"Connaître"},
+          {"fr":"Il connaît","es":"Conoce","note":"Connaître"},
+          {"fr":"Nous connaissons","es":"Conocemos","note":"Connaître"},
+          {"fr":"Vous connaissez","es":"Conocéis","note":"Connaître"},
+          {"fr":"Ils connaissent","es":"Conocen","note":"Connaître"}
+        ]
   "act-quo" : [
        {"fr":"se réveiller", "es": "despertarse", "note":"Les Activités Quotidiennes"},
       {"fr":"se lever", "es":"levantarse", "note":"Les Activités Quotidiennes"},
