@@ -155,7 +155,9 @@
   {"fr":"Derriér","es":"Detrás de","note":"Les Prépositions de Lieu"},
   {"fr":"En haut","es":"Arriba","note":"Les Prépositions de Lieu"},
   {"fr":"En bas","es":"Abajo","note":"Les Prépositions de Lieu"},
-  {"fr":"Au milieu / Au centre","es":"En el medio / En el centro","note":"Les Prépositions de Lieu"}
+  {"fr":"Au milieu / Au centre","es":"En el medio / En el centro","note":"Les Prépositions de Lieu"},
+    {"fr":"en dehors de","es":"Afuera de","note":"Les Prépositions de Lieu"}
+    
 ],
   "nourriture" :  [
          {"fr":"un","es":"uno","note":"Verbs"},
