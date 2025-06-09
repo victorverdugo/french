@@ -35,7 +35,7 @@
           {"fr":"Nous connaissons","es":"Conocemos","note":"Connaître"},
           {"fr":"Vous connaissez","es":"Conocéis","note":"Connaître"},
           {"fr":"Ils connaissent","es":"Conocen","note":"Connaître"}
-        ]
+        ],
   "act-quo" : [
        {"fr":"se réveiller", "es": "despertarse", "note":"Les Activités Quotidiennes"},
       {"fr":"se lever", "es":"levantarse", "note":"Les Activités Quotidiennes"},
