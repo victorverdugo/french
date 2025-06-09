@@ -1,6 +1,6 @@
 { 
   "categories" : ["verbs", "actQuo", "adjPers"],
-  "verb" :  [
+  "verbs" :  [
          {"fr":"un","es":"uno"},
         {"fr":"deux","es":"dos"},
         {"fr":"trois","es":"tres"}
