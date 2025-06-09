@@ -142,11 +142,21 @@
   {"fr":"Énergique", "es": "Enérgico (-a)", "note":"Liste adjectifs personnalité"},
   {"fr":"Cultivé(e)", "es": "Culto (-a)", "note":"Liste adjectifs personnalité"}
   ],
-  "prep-de-lieu" :  [
-         {"fr":"un","es":"uno","note":"Verbs"},
-        {"fr":"deux","es":"dos","note":"Verbs"},
-        {"fr":"trois","es":"tres","note":"Verbs"}
-        ],
+  "prep-de-lieu" : [
+  {"fr":"Sur","es":"Encima de","note":"Les Prépositions de Lieu"},
+  {"fr":"Sous","es":"Debajo de","note":"Les Prépositions de Lieu"},
+  {"fr":"Au-dessus de","es":"Por encima de","note":"Les Prépositions de Lieu"},
+  {"fr":"En-dessous de","es":"Por debajo de","note":"Les Prépositions de Lieu"},
+  {"fr":"Entre","es":"Entre","note":"Les Prépositions de Lieu"},
+  {"fr":"à gauche","es":"A la izquierda","note":"Les Prépositions de Lieu"},
+  {"fr":"à droite","es":"A la derecha","note":"Les Prépositions de Lieu"},
+  {"fr":"à côte de","es":"Al lado de","note":"Les Prépositions de Lieu"},
+  {"fr":"Devant","es":"Delante de","note":"Les Prépositions de Lieu"},
+  {"fr":"Derriér","es":"Detrás de","note":"Les Prépositions de Lieu"},
+  {"fr":"En haut","es":"Arriba","note":"Les Prépositions de Lieu"},
+  {"fr":"En bas","es":"Abajo","note":"Les Prépositions de Lieu"},
+  {"fr":"Au milieu / Au centre","es":"En el medio / En el centro","note":"Les Prépositions de Lieu"}
+],
   "nourriture" :  [
          {"fr":"un","es":"uno","note":"Verbs"},
         {"fr":"deux","es":"dos","note":"Verbs"},
