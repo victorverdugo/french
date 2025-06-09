@@ -1,9 +1,9 @@
 { 
   "categories" : ["verbs", "actQuo", "adjPers"],
   "verbs" :  [
-         {"fr":"un","es":"uno"},
-        {"fr":"deux","es":"dos"},
-        {"fr":"trois","es":"tres"}
+         {"fr":"un","es":"uno","note":"Verbs"},
+        {"fr":"deux","es":"dos","note":"Verbs"},
+        {"fr":"trois","es":"tres","note":"Verbs"}
         ],
   "actQuo" : [
        {"fr":"se réveiller", "es": "despertarse", "note":"Les Activités Quotidiennes"},
