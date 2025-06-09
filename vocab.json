@@ -1,5 +1,5 @@
 { 
-  "categories" : ["verbs", "act-quo", "adj-personnalite","prep-de-lieu", "nourriture", "famille"],
+  "categories" : ["verbs", "act-quo", "personnalite","prep-de-lieu", "nourriture", "famille"],
   "verbs" :  [
          {"fr":"un","es":"uno","note":"Verbs"},
         {"fr":"deux","es":"dos","note":"Verbs"},
@@ -42,7 +42,7 @@
       {"fr":"arroser les plantes", "es":"regar las plantas", "note":"Les tâches ménagères"},
       {"fr":"vider la poubelle", "es":"sacar la basura", "note":"Les tâches ménagères"}
   ],
-  "adj-personnalite" : [
+  "personnalite" : [
   {"fr":"Sympathique", "es": "Simpático", "note":"Liste adjectifs personnalité"},
   {"fr":"Antipathique", "es": "Antipático", "note":"Liste adjectifs personnalité"},
   {"fr":"Timide", "es": "Tímido", "note":"Liste adjectifs personnalité"},
