@@ -110,6 +110,21 @@
   {"fr":"Vulgaire", "es": "Vulgar", "note":"Liste adjectifs personnalité"},
   {"fr":"Énergique", "es": "Enérgico (-a)", "note":"Liste adjectifs personnalité"},
   {"fr":"Cultivé(e)", "es": "Culto (-a)", "note":"Liste adjectifs personnalité"}
-  ]
+  ],
+  "prep-de-lieu" :  [
+         {"fr":"un","es":"uno","note":"Verbs"},
+        {"fr":"deux","es":"dos","note":"Verbs"},
+        {"fr":"trois","es":"tres","note":"Verbs"}
+        ],
+  "nourriture" :  [
+         {"fr":"un","es":"uno","note":"Verbs"},
+        {"fr":"deux","es":"dos","note":"Verbs"},
+        {"fr":"trois","es":"tres","note":"Verbs"}
+        ],
+  "famille" :  [
+         {"fr":"un","es":"uno","note":"Verbs"},
+        {"fr":"deux","es":"dos","note":"Verbs"},
+        {"fr":"trois","es":"tres","note":"Verbs"}
+        ]
         
 }
