@@ -226,6 +226,14 @@
          {"fr":"un","es":"uno","note":"Verbs"},
         {"fr":"deux","es":"dos","note":"Verbs"},
         {"fr":"trois","es":"tres","note":"Verbs"}
+        ],
+  "adj-possessifs" :  [
+         {"fr":"mon ma mes","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"ton ta tes","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"son sa ses","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"notre notre nos","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"votre votre vos","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"leur leur leurs","es":"-","leurs":"Les Adjectifs Possessifs"}
         ]
         
 }
