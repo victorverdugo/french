@@ -1,5 +1,5 @@
 { 
-  "categories" : ["verbs", "act-quo", "personnalite","prep-de-lieu", "nourriture", "famille"],
+  "categories" : ["verbs", "act-quo", "personnalite","prep-de-lieu", "nourriture", "famille","adj-possessifs"],
   "verbs" : [
           {"fr":"Je Peux","es":"Puedo","note":"Pouvoir"},
           {"fr":"Tu Peux","es":"Puedes","note":"Pouvoir"},
