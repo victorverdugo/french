@@ -1,5 +1,5 @@
 { 
-  "categories" : ["verbs", "act-quo", "personnalite","prep-de-lieu", "nourriture", "famille","adj-possessifs"],
+  "categories" : ["verbs", "act-quo", "personnalite","prep-de-lieu", "nourriture", "famille","adj-possessifs","adj-demonstratifs"],
   "verbs" : [
           {"fr":"Je Peux","es":"Puedo","note":"Pouvoir"},
           {"fr":"Tu Peux","es":"Puedes","note":"Pouvoir"},
@@ -234,6 +234,14 @@
         {"fr":"notre notre nos","es":"-","note":"Les Adjectifs Possessifs"},
         {"fr":"votre votre vos","es":"-","note":"Les Adjectifs Possessifs"},
         {"fr":"leur leur leurs","es":"-","leurs":"Les Adjectifs Possessifs"}
+        ],
+  
+  "adj-demonstratifs" :  [
+         {"fr":"ce","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"cette","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"cess","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"ces","es":"-","note":"Les Adjectifs Possessifs"},
+        {"fr":"cet","es":"Masculin + Vvoayel","note":"Les Adjectifs Possessifs"}
         ]
         
 }
