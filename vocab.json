@@ -221,10 +221,7 @@
   {"fr":"des biscuits","es":"galletas","note":"Nourriture"},
   {"fr":"du sel","es":"sal","note":"Nourriture"},
   {"fr":"de la moutarde","es":"mostaza","note":"Nourriture"}
-]
-
- 
-        ],
+],
   "famille" :  [
          {"fr":"un","es":"uno","note":"Verbs"},
         {"fr":"deux","es":"dos","note":"Verbs"},
