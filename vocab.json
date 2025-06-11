@@ -231,7 +231,7 @@
         {"fr":"frère","es":"hermano","note":"Famille"},
         {"fr":"soeur","es":"hermana","note":"Famille"},
         {"fr":"femme","es":"esposa","note":"Famille"},
-        {"fr":"le mari","es":"tres","note":"Famille"},
+        {"fr":"le mari","es":"esposo","note":"Famille"},
         {"fr":"la tante","es":"tía","note":"Famille"},
         {"fr":"l'oncle","es":"tío","note":"Famille"},
         {"fr":"cousin(e)","es":"primo(a)","note":"Famille"},
@@ -252,11 +252,11 @@
         ],
   
   "adj-demonstratifs" :  [
-         {"fr":"ce","es":"-","note":"Les Adjectifs Possessifs"},
-        {"fr":"cette","es":"-","note":"Les Adjectifs Possessifs"},
-        {"fr":"cess","es":"-","note":"Les Adjectifs Possessifs"},
-        {"fr":"ces","es":"-","note":"Les Adjectifs Possessifs"},
-        {"fr":"cet","es":"Masculin + Vvoayel","note":"Les Adjectifs Possessifs"}
+         {"fr":"ce","es":"este","note":"Les Adjectifs Possessifs"},
+        {"fr":"cette","es":"esta","note":"Les Adjectifs Possessifs"},
+        {"fr":"ces","es":"estos","note":"Les Adjectifs Possessifs"},
+        {"fr":"ces","es":"estas","note":"Les Adjectifs Possessifs"},
+        {"fr":"cet","es":"Masculin + Voayel","note":"Les Adjectifs Possessifs"}
         ]
         
 }
