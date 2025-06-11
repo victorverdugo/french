@@ -223,9 +223,24 @@
   {"fr":"de la moutarde","es":"mostaza","note":"Nourriture"}
 ],
   "famille" :  [
-         {"fr":"un","es":"uno","note":"Verbs"},
-        {"fr":"deux","es":"dos","note":"Verbs"},
-        {"fr":"trois","es":"tres","note":"Verbs"}
+         {"fr":"maman","es":"mami","note":"Famille"},
+        {"fr":"mére","es":"mother","note":"Famille"},
+        {"fr":"père","es":"mami","note":"Famille"},
+        {"fr":"fils","es":"hijo","note":"Famille"},
+        {"fr":"fille","es":"hija","note":"Famille"},
+        {"fr":"frère","es":"hermano","note":"Famille"},
+        {"fr":"soeur","es":"hermana","note":"Famille"},
+        {"fr":"femme","es":"esposa","note":"Famille"},
+        {"fr":"le mari","es":"tres","note":"Famille"},
+        {"fr":"la tante","es":"tía","note":"Famille"},
+        {"fr":"l'oncle","es":"tío","note":"Famille"},
+        {"fr":"cousin(e)","es":"primo(a)","note":"Famille"},
+        {"fr":"grand-mère","es":"abuela","note":"Famille"},
+        {"fr":"grand-père","es":"abuelo","note":"Famille"},
+        {"fr":"petit-fils","es":"nieto","note":"Famille"},
+        {"fr":"petit-fille","es":"nieta","note":"Famille"},
+        {"fr":"le neveu","es":"sobrino","note":"Famille"},
+        {"fr":"la nièce","es":"sobrina","note":"Famille"}
         ],
   "adj-possessifs" :  [
          {"fr":"mon ma mes","es":"-","note":"Les Adjectifs Possessifs"},
